@@ -4,6 +4,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+" The future depends on what you do today " - Mahatma Gandhi
 
 Use the left arrow to go back!
